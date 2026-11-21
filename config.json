@@ -1,0 +1,23 @@
+{
+    "model_name": "google/vit-base-patch16-224-in21k",
+    "feature_dim": 768,
+    "input_resolution": [
+        224,
+        224
+    ],
+    "confidence_threshold": 0.65,
+    "classes": [
+        "Alejandro_Toledo",
+        "Alvaro_Uribe",
+        "Amelie_Mauresmo",
+        "Andre_Agassi",
+        "Angelina_Jolie",
+        "Ariel_Sharon",
+        "Arnold_Schwarzenegger",
+        "Atal_Bihari_Vajpayee",
+        "Bill_Clinton",
+        "Carlos_Menem"
+    ],
+    "num_classes": 10,
+    "total_samples": 200
+}
